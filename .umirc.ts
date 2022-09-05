@@ -22,4 +22,13 @@ export default defineConfig({
     },
   ],
   // more config: https://d.umijs.org/config
+  // lessLoader: {
+  //   additionalData: (content, loaderContext) => {
+  //     console.log(content);
+  //   }
+  // },
+  // chainWebpack(config) {
+  //   console.log(config);
+
+  // }
 });

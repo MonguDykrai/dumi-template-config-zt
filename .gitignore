@@ -19,3 +19,6 @@
 .umi-production
 .umi-test
 .env.local
+
+# build command genarated file, do not need commit
+/es

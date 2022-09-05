@@ -40,6 +40,7 @@
     "dumi": "^1.1.0",
     "father-build": "^1.19.1",
     "gh-pages": "^3.0.0",
+    "less-plugin-px2rem": "^0.1.1",
     "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",
     "yorkie": "^2.0.0"
