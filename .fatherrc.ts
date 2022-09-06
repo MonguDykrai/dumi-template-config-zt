@@ -1,5 +1,8 @@
-const LessPx2rem = require('less-plugin-px2rem');
-const px2rem = new LessPx2rem({});
+const LessPx2rem = require('./plugins/LessPluginPx2rem');
+// const LessPx2rem = require('less-plugin-px2rem');
+const px2rem = new LessPx2rem({
+  rules: ['use px2rem'],
+});
 
 export default {
   // esm: 'rollup',
